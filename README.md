@@ -12,4 +12,4 @@
   <a href="mailto:kalel.rodrigues@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp}&backgroundColor=ffff&buttonColor=000000&buttonBorderRadius=0&buttonText=Join&buttonTextColor=ffffff&infoColor=353535&nameColor=000000&borderRadius=0&titleLen=8&)](https://discord.gg/programador)
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t=1783043369776&backgroundColor=ffffff&buttonColor=202020&infoColor=6b6b6b&nameColor=202020&borderRadius=0)](https://discord.gg/programador)
